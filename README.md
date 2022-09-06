@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![wakatime](https://wakatime.com/badge/user/4dff004a-07a8-43cb-91ae-994aaab9892e.svg)](https://wakatime.com/@4dff004a-07a8-43cb-91ae-994aaab9892e)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-khosravi&show_icons=true&&line_height=40)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-khosravi&show_icons=true)
